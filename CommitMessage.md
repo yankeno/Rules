@@ -5,6 +5,7 @@
 - update：機能修正（バグではない）
 - clean：整理（リファクタリング等）
 - remove：削除（ファイル）
+- wip：作業中
 
 # Format
 
